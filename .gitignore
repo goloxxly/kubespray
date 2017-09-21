@@ -3,6 +3,7 @@
 inventory/vagrant_ansible_inventory
 inventory/group_vars/fake_hosts.yml
 inventory/host_vars/
+inventory/inventory
 temp
 .idea
 .tox
