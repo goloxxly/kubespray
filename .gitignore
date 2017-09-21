@@ -23,8 +23,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+artifacts/
 env/
 build/
+credentials/
 develop-eggs/
 dist/
 downloads/
